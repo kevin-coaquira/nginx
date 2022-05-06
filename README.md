@@ -1,6 +1,5 @@
 # NGINX
-##
-Lo primero que hice es hacer un ### "sudo su"
+Lo primero que hice es hacer un "sudo su"
 Seguido de esto intale nginx con el cmd "apt-get install nginx"
 Una vez instalado se accede con el cmd "/etc/nginx", y con el cmd "ll" nos muestra todo lo que hay en este directorio.
 Aqui se puede ver como funciona:
